@@ -1,6 +1,7 @@
 // Mini Cloud Log Analyzer - Variante D
 // Detectar 3 errores consecutivos (codigos 5xx)
-// Autor: Andres Ramirez
+// Autor: Andres Leonardo Ramirez Gonzalez
+/// Materia: Lenguajes de interfaz
 
 // Variante D - lectura byte a byte
 .global _start
