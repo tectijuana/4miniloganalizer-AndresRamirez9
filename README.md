@@ -63,6 +63,18 @@ Se entregará un repositorio preconfigurado que contiene:
 El estudiante deberá completar la lógica correspondiente.
 
 ---
+*Nombre: Ramirez Gonzalez Andres Leonardo #23212051
+*Materia lenguajes de interfaz Hora: 4 a 5 pm
+*Maestro: RENE SOLIS REYES
+* Elaboracion de la practica en asciinema: https://asciinema.org/a/961490
+* El código principal está en:  
+[`src/analyzer.s`](https://github.com/tectijuana/4miniloganalizer-AndresRamirez9/blob/main/cloud-log-analyzer/src/analyzer.s)
+* Captura de evidencia de elaboracion de la practica:
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a687189f-9af1-4ae2-853f-d1b8bbd383a9" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a1aec639-88a9-4682-ba5e-28549dd57c39" />
+
+
+---
 
 ## Variantes de la práctica
 
