@@ -73,6 +73,9 @@ El estudiante deberá completar la lógica correspondiente.
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a687189f-9af1-4ae2-853f-d1b8bbd383a9" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a1aec639-88a9-4682-ba5e-28549dd57c39" />
 
+* ejecucion de los 1000 datos
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2f5fdad5-d6a6-447f-9876-154f143920be" />
+
 
 ---
 
